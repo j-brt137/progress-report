@@ -39,7 +39,7 @@ def create_navigation():
 
 # Input Page
 def input_page():
-    st.title("User Rating Input Form")
+    st.title("Progress Report")
     
     with st.form(key="rating_form"):
         # User name input
