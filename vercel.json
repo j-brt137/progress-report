@@ -15,10 +15,5 @@
       "src": "/(.*)",
       "dest": "app.py"
     }
-  ],
-  "env": {
-    "STREAMLIT_SERVER_PORT": "8501",
-    "STREAMLIT_SERVER_HEADLESS": "true",
-    "STREAMLIT_SERVER_FILE_WATCHER_TYPE": "none"
-  }
+  ]
 }
